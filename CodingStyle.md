@@ -1,0 +1,1 @@
+  1. never use a `using namespace` statement globally in a header file ([google it](http://www.google.com/search?q=using+namespace+header&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:unofficial&client=iceweasel-a), [link1](http://nepsweb.co.uk/pgtcpp/namespace.htm))
